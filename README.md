@@ -10,3 +10,11 @@
 [![](https://visitcount.itsvg.in/api?id=TimiSUT24&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+Projects
+
+ThalloTask https://github.com/TimiSUT24/ThalloTask.git
+
+The Ball Game https://github.com/TimiSUT24/The-Ball-Game.git
+
+Bank Program https://github.com/Conixen/GroupProject-Wookie-Warriors.git
